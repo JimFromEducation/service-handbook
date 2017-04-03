@@ -9,6 +9,7 @@ We’d recommend that you:
 
 - make sure there are [the right capabilities in the team](https://www.dto.gov.au/standard/design-guides/the-team/), and that you’ve highlighted any gaps - see the roles list earlier in the document for more detailed information on this
 - know who your stakeholders and subject matter experts are, and schedule regular team time with them for the whole Discovery
+- ensure a problem statement or project mandate is available, this will help the team understand the area they will be immersing in
 - select a user research recruitment agency, so that the user researchers can start researching with users in the first couple of weeks start preparing your recruitment briefs as soon as you have identified your user base, finding actual representative users can take some time. Aim to include a participant with a physical or cognitive challenge in this.
 - find a good, open space for the team to co-locate during Discovery - one with plenty of wall space and whiteboards - and bring lots of stationery: post-it notes, index cards and sharpie markers are a must
 - check that all the building facilities are ready for the team: this includes access to the building, wifi, IT systems and printers
